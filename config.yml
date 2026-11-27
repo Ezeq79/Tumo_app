@@ -1,0 +1,8 @@
+# see https://gitlab.com/fdroid/fdroidserver/blob/2.4.5/examples/config.yml
+sdk_path: $ANDROID_HOME
+keystore: keystore.p12
+keystorepass: LcKxgIeHvbrf46cmwPidhXa5/qzlfHOJ2jVm73suom0=
+keypass: LcKxgIeHvbrf46cmwPidhXa5/qzlfHOJ2jVm73suom0=
+repo_keyalias: cheke-VirtualBox
+keydname: CN=cheke-VirtualBox, OU=F-Droid
+repo_url: https://ezeq79.github.io/Tumo_app/repo

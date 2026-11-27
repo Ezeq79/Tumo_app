@@ -1,0 +1,66 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "Tumo.apk": {
+    "hash": "5db1cd251784f88a544554cac3533597be1a369f047de0380ae43cb8d57733f1",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "co.median.android.xlmrdmw.permission.C2D_MESSAGE",
+        null
+      ],
+      [
+        "co.median.android.xlmrdmw.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "co.median.android.xlmrdmw",
+    "versionCode": 3,
+    "name": "Tumo",
+    "versionName": "1.0.0",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 36,
+    "sig": "79ead7b45db72a95a622fd4f326d49ed",
+    "signer": "6065b87bedbaf8713f4e308bbf0e47ccc7a5325eb32234e0e525b9c89734c995",
+    "size": 7517620,
+    "apkName": "Tumo.apk",
+    "added": 1795543870.91836
+  },
+  "config.yml.save": {
+    "name": "config.yml",
+    "apkName": "config.yml.save",
+    "hash": "20cd6b0578e589607e21a1249b063601f0073894a16ad9aef7d87bd387adb6b9",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "20cd6b0",
+    "packageName": "20cd6b0578e589607e21a1249b063601f0073894a16ad9aef7d87bd387adb6b9",
+    "size": 6,
+    "added": 1795806395.21046
+  }
+}
